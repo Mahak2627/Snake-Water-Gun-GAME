@@ -1,5 +1,5 @@
 # Snake-Water-Gun-GAME
-Author-Mahak Sharma
+Author-Mahak Sharma<br>
 Snake Water Gun is a simple and fun hand game, similar to Rock Paper Scissors.
 <br>
 <p>
