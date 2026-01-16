@@ -10,7 +10,7 @@ Snake Water Gun is a simple and fun hand game, similar to Rock Paper Scissors.
     <li>Water</li>
     <li>Gun</li>
   </ul>
-  <b><u>RULES:</u></b><br>
+  <b><u>RULES:</u></b><br><br>
   <ul>
     <li>Snake drinks Water</li>
     <li>Gun kills Snake</li>
